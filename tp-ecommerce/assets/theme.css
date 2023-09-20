@@ -2,43 +2,22 @@
 	font-family: Muli;
 	font-weight: 600;
 	font-style: normal;
-	src: url('./fonts/muli_n6.woff') format('woff');
-	font-display: block;
+	src: url('./fonts/muli_n6.woff2') format('woff2');
+	font-display: swap;
 }
 @font-face {
 	font-family: Muli;
 	font-weight: 400;
 	font-style: normal;
-	src: url('./fonts/muli_n4.woff') format('woff');
-	font-display: block;
+	src: url('./fonts/muli_n4.woff2') format('woff2');
+	font-display: swap;
 }
 @font-face {
 	font-family: Muli;
 	font-weight: 700;
 	font-style: normal;
-	src: url('./fonts/muli_n7.woff') format('woff');
-	font-display: block;
-}
-@font-face {
-	font-family: Muli;
-	font-weight: 700;
-	font-style: normal;
-	src: url('./fonts/muli_n7.woff') format('woff');
-	font-display: block;
-}
-@font-face {
-	font-family: Muli;
-	font-weight: 400;
-	font-style: italic;
-	src: url('./fonts/muli_i4.woff') format('woff');
-	font-display: block;
-}
-@font-face {
-	font-family: Muli;
-	font-weight: 700;
-	font-style: italic;
-	src: url('./fonts/muli_i7.woff') format('woff');
-	font-display: block;
+	src: url('./fonts/muli_n7.woff2') format('woff2');
+	font-display: swap;
 }
 .slick-slider {
 	position: relative;
@@ -696,7 +675,7 @@ button,
 select,
 .disclosure__toggle {
 	font-size: 18px;
-	font-family: Muli, serif;
+	font-family: Muli, sans-serif;
 	font-style: normal;
 	font-weight: 400;
 	color: #162950;
@@ -724,7 +703,7 @@ h5,
 h6,
 .h6 {
 	margin: 0 0 17.5px;
-	font-family: Muli, serif;
+	font-family: Muli, sans-serif;
 	font-style: normal;
 	font-weight: 600;
 	line-height: 1.2;
@@ -1057,7 +1036,7 @@ a[href^='tel'] {
 	padding: 8px 15px;
 	background-color: #da2f0c;
 	color: #fff;
-	font-family: Muli, serif;
+	font-family: Muli, sans-serif;
 	font-style: normal;
 	font-weight: 600;
 	text-transform: uppercase;
@@ -1192,7 +1171,7 @@ table a {
 	border-bottom: 1px solid currentColor;
 }
 th {
-	font-family: Muli, serif;
+	font-family: Muli, sans-serif;
 	font-style: normal;
 	font-weight: 700;
 }
@@ -2030,7 +2009,7 @@ hr {
 .list-view-item__title {
 	color: #162950;
 	min-width: 100px;
-	font-family: Muli, serif;
+	font-family: Muli, sans-serif;
 	font-style: normal;
 	font-weight: 600;
 	font-size: 1.11111em;
@@ -2582,7 +2561,7 @@ hr {
 }
 
 .cart th {
-	font-family: Muli, serif;
+	font-family: Muli, sans-serif;
 	font-weight: 400;
 	font-size: 0.88889em;
 	text-transform: uppercase;
@@ -3220,7 +3199,7 @@ hr {
 	letter-spacing: 0;
 	text-transform: uppercase;
 	font-size: 0.88889em;
-	font-family: Muli, serif;
+	font-family: Muli, sans-serif;
 	font-weight: 400;
 }
 .cart-popup__close {
@@ -3269,7 +3248,7 @@ hr {
 .cart-popup-item__title {
 	color: #162950;
 	font-size: 1.11111em;
-	font-family: Muli, serif;
+	font-family: Muli, sans-serif;
 	font-weight: 600;
 }
 .product-details {
@@ -3681,7 +3660,7 @@ hr {
 	margin-bottom: 0;
 	padding-right: 40px;
 	font-size: 0.88889em;
-	font-family: Muli, serif;
+	font-family: Muli, sans-serif;
 	font-weight: 400;
 	text-transform: uppercase;
 	color: #6d6d6d;
@@ -3776,7 +3755,7 @@ hr {
 	word-break: break-word;
 	border-bottom: 1px solid transparent;
 	line-height: 1.2;
-	font-family: Muli, serif;
+	font-family: Muli, sans-serif;
 	font-weight: 600;
 }
 .predictive-search-item__vendor {
@@ -3805,7 +3784,7 @@ hr {
 	background-color: transparent;
 	word-break: break-word;
 	white-space: normal;
-	font-family: Muli, serif;
+	font-family: Muli, sans-serif;
 	font-weight: 600;
 }
 .predictive-search-view-all:hover,
@@ -3911,7 +3890,7 @@ hr {
 	opacity: 0.99;
 }
 .mobile-nav__dropdown .mobile-nav__sublist-header {
-	font-family: Muli, serif;
+	font-family: Muli, sans-serif;
 	font-style: normal;
 	font-weight: 600;
 	display: table-cell;
@@ -5305,7 +5284,7 @@ hr {
 .product-card__title {
 	border-bottom: 1px solid transparent;
 	display: inline;
-	font-family: Muli, serif;
+	font-family: Muli, sans-serif;
 	font-style: normal;
 	font-weight: 600;
 }
