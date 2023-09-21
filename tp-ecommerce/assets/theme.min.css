@@ -49,6 +49,7 @@ li {
     font-weight: 600;
     font-style: normal;
     src: url("./fonts/muli_n6.woff2") format("woff2");
+    unicode-range: (U+0020-U+007E, 0x20A0-0x20CF);
     font-display: swap;
 }
 @font-face {
@@ -56,6 +57,7 @@ li {
     font-weight: 400;
     font-style: normal;
     src: url("./fonts/muli_n4.woff2") format("woff2");
+    unicode-range: (U+0020-U+007E, 0x20A0-0x20CF);
     font-display: swap;
 }
 @font-face {
@@ -63,6 +65,7 @@ li {
     font-weight: 700;
     font-style: normal;
     src: url("./fonts/muli_n7.woff2") format("woff2");
+    unicode-range: (U+0020-U+007E, 0x20A0-0x20CF);
     font-display: swap;
 }
 .slick-slider {
